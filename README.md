@@ -19,7 +19,7 @@ Etapes à suivre pour préparer le projet PMDtodo
     Initier un server Nodejs
     Lancer le serveur de base de données
     Créer la BDD MongoDB
-    Créer une route front pour afficher une fichier index dans un dossier www
+    Créer une route front pour afficher un fichier index dans un dossier www
     Créer une route api qui renvoie en json l'objet { msg: 'Hello API' }
 
 Configurer la base de données
